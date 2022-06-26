@@ -1,4 +1,6 @@
-# rabbitmq-atividadeExercício Mesa de trabalho
+# rabbitmq-atividade
+
+Exercício Mesa de trabalho
 Nossa locadora de filmes agora necessita de alta disponibilidade em seus serviços para
 cadastrar novos filmes automaticamente. Para tanto, vamos implementar um servidor de
 configurações para simplificar a modificação dos nossos microsserviços se necessário, o
